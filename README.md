@@ -1,5 +1,7 @@
 # Strapi application
 
+- Give credit to this course [Next.js Dev to Deployment](https://www.udemy.com/course/nextjs-dev-to-deployment/) 
+
 You will be able to see the events that the users shared and if you want to share something you can register and add, update and delete your events.
 I used in the frontend:
 1. Next.js
